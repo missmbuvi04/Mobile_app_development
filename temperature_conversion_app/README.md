@@ -42,6 +42,6 @@ Text -to display the result and labels - `ListView`-to show conversion history -
 Padding,SizedBox`, `Column`, `Row` -for clean layout 
 Getting Started 
 To run the app locally: 
-1. **Clone the repo** ```bash git clone https://github.com/your-username/temperature-conversion-app.git cd temperature-conversion-app
+1. **Clone the repo** ```bash git clone https://github.com/missmbuvio4/temperature-conversion-app.git cd temperature-conversion-app
 
 
